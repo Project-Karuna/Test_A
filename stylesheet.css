@@ -1,0 +1,17 @@
+.cl1{
+    background-color: cyan;
+    font-style: italic;
+    padding: 100px;
+    margin: 200px;
+}
+
+#id1{
+    color: darkred;
+    padding-right: 200px;
+}
+
+span{
+    font-size: 40px;
+    color: black;
+    font-weight: 200px;
+}
